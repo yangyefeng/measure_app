@@ -1,0 +1,17 @@
+# This is an example key-value file
+
+[username]
+
+Name=Foundations of GTK+ Development
+
+# A list of strings that are localized
+Hi=Hello
+Hi[fr]=Bonjour
+Hi[de]=Hallo
+Hi[es]=Hola
+
+Bool=true;true;false
+Nums=1;1;2;3;5;8
+Strings=One;One;Two;Three;Five;Eight
+Int=42
+Doubles=0.0;1.0;50.4
